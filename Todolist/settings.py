@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'q5(_6+(5)0o-@0-2@614q@%9jcb-vo#a!#=1y0o6$w4ffksk3!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["tododailylist.herokuapp.com"]
 
